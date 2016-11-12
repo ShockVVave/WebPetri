@@ -7,6 +7,7 @@ import java.util.ArrayList;
  */
 public class ObjectS {
 
+
     private float ownVer;
     private ArrayList <ArrayList> ObjectListS= new ArrayList<ArrayList>();
     private float tekVer;
