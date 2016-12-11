@@ -1,6 +1,4 @@
-package main.resources;
 
-import main.Prog;
 
 public class Main2 {
     static Prog a = new Prog();

@@ -1,5 +1,3 @@
-package main;
-
 public class Prog {
     float S[][]={{3f/8f,1f/8f,1f/2f,0f},{1f/5f,3f/5f,0f,1f/5f},{3f/8f,0f,1f/2f,1f/8f },{0,1f/6f,1f/3f,1f/2f}};
     public int shag=5;

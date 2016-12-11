@@ -1,12 +1,9 @@
-package main;
-
 import java.util.ArrayList;
 
 /**
  * Created by Денис on 05.11.2016.
  */
 public class ObjectS {
-
 
     private float ownVer;
     private ArrayList <ArrayList> ObjectListS= new ArrayList<ArrayList>();
